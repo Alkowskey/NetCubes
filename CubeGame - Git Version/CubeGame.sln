@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubeGame.Plugins", "CubeGame.Plugins.csproj", "{2C9DFA1D-210E-B39F-0B24-F672A93A3C4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubeGame", "CubeGame.csproj", "{4A9EFD4C-107D-B505-CD9A-ADC77A1F1A3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubeGame.Editor.Plugins", "CubeGame.Editor.Plugins.csproj", "{7737CA73-EE8C-77D0-6B3C-9DF0FD42781D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C9DFA1D-210E-B39F-0B24-F672A93A3C4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C9DFA1D-210E-B39F-0B24-F672A93A3C4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C9DFA1D-210E-B39F-0B24-F672A93A3C4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C9DFA1D-210E-B39F-0B24-F672A93A3C4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A9EFD4C-107D-B505-CD9A-ADC77A1F1A3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A9EFD4C-107D-B505-CD9A-ADC77A1F1A3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A9EFD4C-107D-B505-CD9A-ADC77A1F1A3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A9EFD4C-107D-B505-CD9A-ADC77A1F1A3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7737CA73-EE8C-77D0-6B3C-9DF0FD42781D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7737CA73-EE8C-77D0-6B3C-9DF0FD42781D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7737CA73-EE8C-77D0-6B3C-9DF0FD42781D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7737CA73-EE8C-77D0-6B3C-9DF0FD42781D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
